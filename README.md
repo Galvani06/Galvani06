@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel! 👋
 
-Estudante de **Sistemas de Informação** na Unilago (2º ano). 
+Estudante de **Sistemas de Informação** na Unilago (2º ano/ 3º período). 
 Atualmente focado em aprender sobre desenvolvimento e com interesse no mundo da Cibersegurança.
 
 ## 🚀 Tecnologias
