@@ -6,7 +6,7 @@ Atualmente focado em aprender sobre desenvolvimento e com interesse no mundo da 
 ## 🚀 Tecnologias
 - Atualmente estudando: Python e linguagens Full stack
 - Introduçáo a Cybersegurança CISCO
-- 
+- Segurança para devs(rockseat)
 - Ferramentas: Git, GitHub
 
 ## 📫 Como me encontrar
