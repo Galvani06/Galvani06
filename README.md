@@ -13,4 +13,5 @@ Atualmente focado em aprender sobre desenvolvimento e com interesse no mundo da 
 
 ## 📫 Como me encontrar
 - Email: gabrielgalvani2006@gmail.com
-- instagram: galvani_06
+- Instagram: galvani_06
+- Linkedin: www.linkedin.com/in/gabriel-galvani-gimenes
