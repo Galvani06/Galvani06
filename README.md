@@ -6,8 +6,10 @@ Atualmente focado em aprender sobre desenvolvimento e com interesse no mundo da 
 ## 🚀 Tecnologias
 - Atualmente estudando: Python e linguagens Full stack
 - Introduçáo a Cybersegurança CISCO
-- Segurança para devs(rockseat)
+- Segurança para devs rocketseat(em andamento)
+- Segurança da Informação - Fundação Bradesco(em andamento)
 - Ferramentas: Git, GitHub
+  
 
 ## 📫 Como me encontrar
 - Email: gabrielgalvani2006@gmail.com
